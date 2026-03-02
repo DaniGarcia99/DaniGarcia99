@@ -7,9 +7,8 @@ Actualmente estoy cursando el grado superior de **DAW**, donde estoy aprendiendo
 
 ### 📚 Lo que estoy aprendiendo:
 - **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+).
-- **Backend:** PHP / Java (o el lenguaje que den en tu centro), SQL (MySQL/PostgreSQL).
+- **Backend:** PHP / Java, SQL (MySQL/PostgreSQL).
 - **Entornos:** Git, GitHub, despliegue en servidores.
-- **Próximo objetivo:** Aprender [Framework que quieras aprender, ej: React o Vue].
 
 ---
 
