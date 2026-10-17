@@ -21,5 +21,5 @@ Actualmente estoy cursando el grado superior de **DAW**, donde estoy aprendiendo
 
 
 ### 📫 ¿Hablamos?
-- **LinkedIn:** https://www.linkedin.com/in/daniel-garcia-portillo-21b45b17a/
+- **LinkedIn:** https://www.linkedin.com/in/danielgarciaportillodev/
 - **Email:** Danigarciaportillo819@gmail.com
